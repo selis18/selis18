@@ -25,3 +25,5 @@ I've been tinkering with code for about 5 years now, and I've been doing it prof
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/selis18"><img src="https://github-readme-stats.vercel.app/api?username=selis18&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="selis18's GitHub stats" /></a>
+
+[![Codewars Badge](https://www.codewars.com/users/selis18/badges/large)](https://www.codewars.com/users/selis18)
