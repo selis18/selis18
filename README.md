@@ -7,7 +7,7 @@ Web developer
 I've been tinkering with code for about 5 years now, and I've been doing it professionally for the past 2 years. I've dabbled in HTML, CSS, and JS, and even got my feet wet with React and React Native. These days, I'm really diving into JavaScript and working with a tech stack that's all about JS and PHP.
 
 * 🌍  I'm based in Tyumen
-* 🚀  I'm currently working on [Medical calculator](http:// https://calculation-alpha.vercel.app/ )
+* 🚀  I'm currently working on [Medical calculator](https://calculation-alpha.vercel.app/)
 * 🧠  I'm learning deeping JavaScript and ReactJS
 * 🤝  I'm open to collaborating on intresting project
 * ⚡  I love playing games, I'm learning German, and I want to move to Germany.
